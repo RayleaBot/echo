@@ -67,7 +67,7 @@ RayleaBot 官方插件 · `raylea.echo`
 plugin-echo/
   cmd/echo/              进程入口
   internal/plugin/       协议处理、业务逻辑和测试
-  info.json              manifest v3、权限与发布元数据
+  info.json              manifest v4 与发布元数据
 ```
 
 ### 本地联调
