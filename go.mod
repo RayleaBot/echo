@@ -1,4 +1,4 @@
-module github.com/RayleaBot/plugin-echo
+module github.com/RayleaBot/echo
 
 go 1.27.1
 

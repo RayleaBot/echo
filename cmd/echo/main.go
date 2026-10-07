@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/RayleaBot/plugin-echo/internal/plugin"
+	"github.com/RayleaBot/echo/internal/plugin"
 )
 
 func main() {

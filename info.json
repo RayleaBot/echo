@@ -8,7 +8,7 @@
   "metadata": {
     "description": "用于验证命令分发、事件处理和消息回复链路的回显插件",
     "author": "raylea",
-    "repo": "https://github.com/RayleaBot/plugin-echo",
+    "repo": "https://github.com/RayleaBot/echo",
     "keywords": ["echo", "message"]
   },
   "events": ["message.group", "message.private"],

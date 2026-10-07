@@ -23,7 +23,7 @@ RayleaBot 官方插件 · `raylea.echo`
 
 ### 本地安装包
 
-也可以在插件列表中安装本仓库 [GitHub Release](https://github.com/RayleaBot/plugin-echo/releases) 里对应平台的 ZIP：
+也可以在插件列表中安装本仓库 [GitHub Release](https://github.com/RayleaBot/echo/releases) 里对应平台的 ZIP：
 
 | 平台 | 资源 |
 | --- | --- |
@@ -64,7 +64,7 @@ RayleaBot 官方插件 · `raylea.echo`
 ### 目录结构
 
 ```text
-plugin-echo/
+echo/
   cmd/echo/              进程入口
   internal/plugin/       协议处理、业务逻辑和测试
   info.json              manifest v4 与发布元数据
@@ -79,7 +79,7 @@ plugin-echo/
   "workspace_version": "2",
   "plugins": [
     {
-      "path": "../RayleaBotPlugins/plugin-echo"
+      "path": "../RayleaBotPlugins/echo"
     }
   ]
 }
