@@ -4,7 +4,7 @@
   "version": "0.4.0",
   "manifest_version": "4",
   "license": "MIT",
-  "min_core_version": "0.7.0",
+  "min_core_version": "0.4.0",
   "metadata": {
     "description": "用于验证命令分发、事件处理和消息回复链路的回显插件",
     "author": "raylea",
